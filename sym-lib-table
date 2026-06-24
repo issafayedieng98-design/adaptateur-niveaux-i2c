@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "adaptateur-i2c-level-shifter")(type "KiCad")(uri "${KIPRJMOD}/adaptateur-i2c-level-shifter.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,10 @@
+fp-info-cache
+
+~tuto-kicad-level-shifter.kicad_sch.lck
+~tuto-kicad-level-shifter.kicad_pcb.lck
+
+tuto-kicad-level-shifter-backups
+tuto-kicad-level-shifter.kicad_prl
+
+output/
+production/
