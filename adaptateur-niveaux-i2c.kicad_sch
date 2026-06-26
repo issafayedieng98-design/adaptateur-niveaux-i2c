@@ -809,7 +809,7 @@
 				)
 			)
 		)
-		(symbol "adaptateur-i2c-level-shifter:VDD1"
+		(symbol "adaptateur-niveaux-i2c:VDD1"
 			(power)
 			(pin_numbers hide)
 			(pin_names
@@ -929,7 +929,7 @@
 				)
 			)
 		)
-		(symbol "adaptateur-i2c-level-shifter:VDD2"
+		(symbol "adaptateur-niveaux-i2c:VDD2"
 			(power)
 			(pin_numbers hide)
 			(pin_names
@@ -1471,7 +1471,7 @@
 		(uuid "36016891-189e-4839-a76e-c844090783e4")
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD1")
+		(lib_id "adaptateur-niveaux-i2c:VDD1")
 		(at 86.36 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1528,7 +1528,7 @@
 			(uuid "88fbdbd5-2a48-47ba-ab8d-e359a0abe54d")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR04")
 					(unit 1)
@@ -1594,7 +1594,7 @@
 			(uuid "da83276c-6c0f-48f0-b27b-bc960ace394b")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR01")
 					(unit 1)
@@ -1660,7 +1660,7 @@
 			(uuid "854d8fca-5fd3-41da-a92a-34ae97d50e9d")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#FLG01")
 					(unit 1)
@@ -1730,7 +1730,7 @@
 			(uuid "a19048b3-29d0-4875-9a4c-eff32980baae")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "R5")
 					(unit 1)
@@ -1739,7 +1739,7 @@
 		)
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD2")
+		(lib_id "adaptateur-niveaux-i2c:VDD2")
 		(at 153.67 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1796,7 +1796,7 @@
 			(uuid "0d2501d2-9e2e-45ae-bd24-c9a1c35d0ef2")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR08")
 					(unit 1)
@@ -1805,7 +1805,7 @@
 		)
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD2")
+		(lib_id "adaptateur-niveaux-i2c:VDD2")
 		(at 171.45 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1862,7 +1862,7 @@
 			(uuid "9efded9b-23d9-4096-8f46-9b719d1bdd63")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR09")
 					(unit 1)
@@ -1871,7 +1871,7 @@
 		)
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD2")
+		(lib_id "adaptateur-niveaux-i2c:VDD2")
 		(at 189.23 54.61 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1928,7 +1928,7 @@
 			(uuid "a66ece96-de1b-48eb-a837-7255d682e10c")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR011")
 					(unit 1)
@@ -1937,7 +1937,7 @@
 		)
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD2")
+		(lib_id "adaptateur-niveaux-i2c:VDD2")
 		(at 180.34 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1994,7 +1994,7 @@
 			(uuid "199b8163-4dbb-401d-8ed5-72498a790da1")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR010")
 					(unit 1)
@@ -2059,7 +2059,7 @@
 			(uuid "a616c74d-892b-4cc6-a7da-e97ea6558221")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "J1")
 					(unit 1)
@@ -2124,7 +2124,7 @@
 			(uuid "32d15474-64f2-43e9-97a1-a284f79591af")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "J7")
 					(unit 1)
@@ -2194,7 +2194,7 @@
 			(uuid "721d1808-4489-4935-9ee5-3ca0e7aa2164")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "R4")
 					(unit 1)
@@ -2260,7 +2260,7 @@
 			(uuid "e9cc76bd-fd4c-4c30-b4e0-68fe24fe6051")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR03")
 					(unit 1)
@@ -2330,7 +2330,7 @@
 			(uuid "5122617a-bb83-4098-a605-52f508bdac17")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "R1")
 					(unit 1)
@@ -2396,7 +2396,7 @@
 			(uuid "5b8fa71c-c1f4-4f22-9be0-079c797bbda7")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#FLG03")
 					(unit 1)
@@ -2462,7 +2462,7 @@
 			(uuid "3fbc0bd8-a58b-4c2e-8d41-079c63458305")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "J2")
 					(unit 1)
@@ -2528,7 +2528,7 @@
 			(uuid "219007d9-b98b-4190-80e7-76e4fc2684d3")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR02")
 					(unit 1)
@@ -2594,7 +2594,7 @@
 			(uuid "a1798624-d049-4b9b-89a9-019d1c051347")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR014")
 					(unit 1)
@@ -2603,7 +2603,7 @@
 		)
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD1")
+		(lib_id "adaptateur-niveaux-i2c:VDD1")
 		(at 134.62 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2660,7 +2660,7 @@
 			(uuid "bdd641a1-6e7b-4812-87ee-5ced9f04d002")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR07")
 					(unit 1)
@@ -2748,7 +2748,7 @@
 			(uuid "ddf1049d-4903-42e7-bd45-16100f0df77c")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "U1")
 					(unit 1)
@@ -2757,7 +2757,7 @@
 		)
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD1")
+		(lib_id "adaptateur-niveaux-i2c:VDD1")
 		(at 100.33 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2814,7 +2814,7 @@
 			(uuid "9365904b-da7c-4c0e-a6c0-8403c576bdd4")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR05")
 					(unit 1)
@@ -2880,7 +2880,7 @@
 			(uuid "2d85efba-6897-4c08-b676-329c8b829964")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "J6")
 					(unit 1)
@@ -2950,7 +2950,7 @@
 			(uuid "76fb0d39-461d-4c1e-bf0b-0843c927944d")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "C1")
 					(unit 1)
@@ -2959,7 +2959,7 @@
 		)
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD1")
+		(lib_id "adaptateur-niveaux-i2c:VDD1")
 		(at 234.95 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3016,7 +3016,7 @@
 			(uuid "0f9cf27c-2af6-4d0c-9d00-4aab2e9fcc91")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR012")
 					(unit 1)
@@ -3081,7 +3081,7 @@
 			(uuid "7618d90e-3af8-4c72-991c-e95075b5a332")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "J3")
 					(unit 1)
@@ -3090,7 +3090,7 @@
 		)
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD2")
+		(lib_id "adaptateur-niveaux-i2c:VDD2")
 		(at 245.11 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3147,7 +3147,7 @@
 			(uuid "e43093d5-290c-431f-b027-016d1177889e")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR013")
 					(unit 1)
@@ -3213,7 +3213,7 @@
 			(uuid "72d6d1ae-cbe2-4e5c-b36b-338fa12dd123")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#FLG04")
 					(unit 1)
@@ -3279,7 +3279,7 @@
 			(uuid "9351e052-309a-4de9-97f3-5ac198432241")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "J4")
 					(unit 1)
@@ -3345,7 +3345,7 @@
 			(uuid "269d9fec-e7bb-496b-b3b2-523ff7669404")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#FLG02")
 					(unit 1)
@@ -3410,7 +3410,7 @@
 			(uuid "53b26c8d-eaee-4513-8db6-1c6362b625e0")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "J5")
 					(unit 1)
@@ -3419,7 +3419,7 @@
 		)
 	)
 	(symbol
-		(lib_id "adaptateur-i2c-level-shifter:VDD1")
+		(lib_id "adaptateur-niveaux-i2c:VDD1")
 		(at 110.49 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3476,7 +3476,7 @@
 			(uuid "cea90ea9-7f52-4b08-a112-6259e332ecef")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "#PWR06")
 					(unit 1)
@@ -3546,7 +3546,7 @@
 			(uuid "e3cac9dd-bca2-49d7-adca-6c161cdfa02b")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "R3")
 					(unit 1)
@@ -3616,7 +3616,7 @@
 			(uuid "3b499bab-85d6-49ab-a891-e62b3a12e1d3")
 		)
 		(instances
-			(project "adaptateur-i2c-level-shifter"
+			(project "adaptateur-niveaux-i2c"
 				(path "/06c14541-80bd-4b6e-a0d6-d9cf8a445877"
 					(reference "R2")
 					(unit 1)

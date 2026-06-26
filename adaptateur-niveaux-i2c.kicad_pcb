@@ -204,7 +204,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/96fcd497-23d3-47ca-a6dd-f3f0e66de375")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -457,7 +457,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2f91900b-64dc-411f-afd9-e9d3db06e170")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -670,7 +670,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/255e8ebc-9303-4807-a60f-e25d27d70aec")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -923,7 +923,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/371f69b6-fee9-4e6c-956b-55764ff064e0")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -1133,7 +1133,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fed76a4f-541d-4a12-9d97-98f837627d3c")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -1346,7 +1346,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/d000369e-2e4d-464b-83d2-398c5b259e1a")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -1602,7 +1602,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/c5d86d4d-0796-43dc-b663-4674762ee795")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -1858,7 +1858,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/878ee031-9cdc-4586-944d-3ab13bcfb277")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -2114,7 +2114,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/3c40f1ad-4a82-4549-a1cb-045e6ee7126f")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
@@ -2367,7 +2367,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/8d5853d5-f050-4603-ae4b-55b043458beb")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.14058 0.51)
@@ -2577,7 +2577,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0a6e48ad-5775-4e4a-a672-404bb21a1cf4")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 0.5225)
@@ -2787,7 +2787,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/da2895cb-7079-4cd7-95f5-46848d29bd80")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr smd dnp)
 		(fp_line
 			(start -0.237258 -0.5225)
@@ -2997,7 +2997,7 @@
 		(property ki_fp_filters "SSOP*2.95x2.8mm*P0.65mm* VSSOP*2.3x2mm*P0.5mm* X2SON*1.4x1mm*P0.35mm*")
 		(path "/6fcea250-dcab-497d-8dd8-b07e3aafccc4")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.5 -1.5)
@@ -3286,7 +3286,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/237b7a59-d8c8-4870-8a4c-bd550cc3a698")
 		(sheetname "Racine")
-		(sheetfile "adaptateur-i2c-level-shifter.kicad_sch")
+		(sheetfile "adaptateur-niveaux-i2c.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.33)
